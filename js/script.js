@@ -3,7 +3,7 @@ Treehouse Techdegree:
 FSJS Project 2 - Data Pagination and Filtering
 */
 
-console.log(hello);
+console.log("hello");
 /*
 Create the `showPage` function that accepts the parameters list and page which will create and insert the elements needed to display a "page" of nine students
 Create a parameter with the class of '.student-list', and set it equal to an empty string to remove student previously displayed
